@@ -1,0 +1,23 @@
+body { background-color: aqua; 
+    font-family: Georgia;
+}
+h1 { color: darkblue; 
+    font-size: 60px; 
+    font-family: cosmicsansms;
+    text-align: center;
+}
+h4 { text-align: right;
+    font-style: italic;
+}
+.a1 {color: white;}
+.a2 {color: blue;}
+.paragraf1 {color: rgb(255, 217, 0);
+    text-align: center;
+}
+.paragraf2 {color: black;
+    text-align: center;
+}
+.a1:hover {color: red;}
+.a2:hover {background-color: blue;
+    color: white;
+}
